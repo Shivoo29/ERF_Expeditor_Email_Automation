@@ -39,4 +39,4 @@ data/input/
 *.xlsx
 *.xls
 .vscode
-charts
+*.png
